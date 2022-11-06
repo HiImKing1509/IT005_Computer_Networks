@@ -1,4 +1,7 @@
-![image](https://assets-global.website-files.com/5b6df8bb681f89c158b48f6b/5ce426d9a4a48f75aee6f062_what-is-a-computer-network.jpg)
+<p align="center">
+    <img src="https://assets-global.website-files.com/5b6df8bb681f89c158b48f6b/5ce426d9a4a48f75aee6f062_what-is-a-computer-network.jpg" alt="">
+</p>
+
 <p align="center">
   <a href="https://www.uit.edu.vn/" title="Trường Đại học Công nghệ Thông tin" style="border: 5;">
     <img src="https://i.imgur.com/WmMnSRt.png" alt="Trường Đại học Công nghệ Thông tin | University of Information Technology">
