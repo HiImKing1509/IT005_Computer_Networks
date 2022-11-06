@@ -26,7 +26,7 @@
 ## INSTRUCTORS
 <a name="giangvien"></a>
 * **Tô Nguyễn Nhật Quang** - *quangtnn@uit.edu.vn*
-* **Nguyễn Mạnh Hoàng ** - *hoangnm@uit.edu.vn*
+* **Nguyễn Mạnh Hoàng** - *hoangnm@uit.edu.vn*
 
 ## MEMBERS
 <a name="thanhvien"></a>
