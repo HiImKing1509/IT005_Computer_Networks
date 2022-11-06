@@ -1,3 +1,4 @@
+![image](https://assets-global.website-files.com/5b6df8bb681f89c158b48f6b/5ce426d9a4a48f75aee6f062_what-is-a-computer-network.jpg)
 <p align="center">
   <a href="https://www.uit.edu.vn/" title="Trường Đại học Công nghệ Thông tin" style="border: 5;">
     <img src="https://i.imgur.com/WmMnSRt.png" alt="Trường Đại học Công nghệ Thông tin | University of Information Technology">
@@ -5,30 +6,27 @@
 </p>
 
 <!-- Title -->
-<h1 align="center"><b>IT005 - NHẬP MÔN MẠNG MÁY TÍNH</b></h1>
+<h1 align="center"><b>IT005.M11 - COMPUTER NETWORKS</b></h1>
 
+## TABLE OF CONTENTS
+* [ Course Introduction](#gioithieumonhoc)
+* [ Instructors](#giangvien)
+* [ Members](#thanhvien)
 
-
-## BẢNG MỤC LỤC
-* [ Giới thiệu môn học](#gioithieumonhoc)
-* [ Giảng viên hướng dẫn](#giangvien)
-* [ Thành viên](#thanhvien)
-* [ Đồ án môn học](#doan)
-
-## GIỚI THIỆU MÔN HỌC
+## COURSE INTRODUCTION
 <a name="gioithieumonhoc"></a>
-* **Tên môn học**: Nhập môn mạng máy tính
-* **Mã môn học**: IT005
-* **Lớp học**: IT005.M11
-* **Ngày bắt đầu**: 27/09/2021
-* **Năm học**: 2021-2022
+* **Course name**: Computer Network
+* **Course ID**: IT005
+* **Class**: IT005.N11
+* **Scholastic**: 2021-2022
 
-## GIẢNG VIÊN HƯỚNG DẪN
+## INSTRUCTORS
 <a name="giangvien"></a>
-* TS. **Tô Nguyễn Nhật Quang** - *quangtnn@uit.edu.vn*
+* **Tô Nguyễn Nhật Quang** - *quangtnn@uit.edu.vn*
+* **Nguyễn Mạnh Hoàng ** - *hoangnm@uit.edu.vn*
 
-## THÀNH VIÊN THỰC HIỆN
+## MEMBERS
 <a name="thanhvien"></a>
-| STT    | MSSV          | Họ và Tên              | Github                                               | Email                   |
+| Serial    | student ID          | Full name              | Github                                               | Email                   |
 | ------ |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
 | 1      | 20521494      | Huỳnh Viết Tuấn Kiệt |[hiimking1509](https://github.com/HiImKing1509)          |20521494@gm.uit.edu.vn   |
